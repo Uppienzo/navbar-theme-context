@@ -1,0 +1,38 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid #dcdcdc;
+  padding: 15px 40px;
+}
+.logo,
+.theme {
+  height: 55px;
+}
+.nav-container {
+  background-color: transparent;
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+}
+.home-nav,
+.about-nav {
+  margin: 0px 15px;
+}
+.link {
+  text-decoration: none;
+}
+.theme-button {
+  border-width: 0px;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
+.darkTheme {
+  color: white;
+  background-color: black;
+}
+.lightTheme {
+  color: black;
+  background-color: white;
+}

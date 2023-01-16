@@ -1,0 +1,22 @@
+.home-body {
+  height: 100vh;
+  display: flex;
+  background-color: transparent;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.home-image {
+  height: 120px;
+}
+.home-head {
+  font-size: 40px;
+}
+.Dark-theme {
+  background-color: black;
+  color: white;
+}
+.light-theme {
+  background-color: white;
+  color: black;
+}

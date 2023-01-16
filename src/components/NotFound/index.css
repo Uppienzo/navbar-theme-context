@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.not-found-image {
+  height: 260px;
+}
+.not-found-body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.not-found-head {
+  font-size: 30px;
+}
+.not-found-description {
+  color: #64748b;
+}
+
+.dark-theme {
+  color: white;
+  background-color: black;
+}
+.light-theme {
+  color: black;
+  background-color: white;
+}
+.dark-head {
+  color: white;
+}
+.light-head {
+  color: #171f46;
+}
